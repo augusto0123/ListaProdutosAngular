@@ -1,0 +1,7 @@
+listaProdutos = [
+    { nome: "Mouse USB", preco: "50.99" },
+    { nome: "Teclado Gamer", preco: "120.00" },
+    { nome: "Monitor HD", preco: "900.25" },
+    { nome: "Webcam", preco: "150.76" },
+    { nome: "Headset Bluetooth", preco: "250.99" },
+]
